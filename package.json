@@ -1,0 +1,22 @@
+{
+  "name": "monsoon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isabelringing1/monsoon.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/isabelringing1/monsoon/issues"
+  },
+  "homepage": "https://github.com/isabelringing1/monsoon#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
